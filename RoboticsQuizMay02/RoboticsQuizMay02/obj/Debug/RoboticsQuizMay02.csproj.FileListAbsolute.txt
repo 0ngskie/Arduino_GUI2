@@ -1,0 +1,10 @@
+D:\VSFile\RoboticsQuizMay02\RoboticsQuizMay02\bin\Debug\RoboticsQuizMay02.exe.config
+D:\VSFile\RoboticsQuizMay02\RoboticsQuizMay02\bin\Debug\RoboticsQuizMay02.exe
+D:\VSFile\RoboticsQuizMay02\RoboticsQuizMay02\bin\Debug\RoboticsQuizMay02.pdb
+D:\VSFile\RoboticsQuizMay02\RoboticsQuizMay02\obj\Debug\RoboticsQuizMay02.csproj.AssemblyReference.cache
+D:\VSFile\RoboticsQuizMay02\RoboticsQuizMay02\obj\Debug\RoboticsQuizMay02.Properties.Resources.resources
+D:\VSFile\RoboticsQuizMay02\RoboticsQuizMay02\obj\Debug\RoboticsQuizMay02.csproj.GenerateResource.cache
+D:\VSFile\RoboticsQuizMay02\RoboticsQuizMay02\obj\Debug\RoboticsQuizMay02.csproj.CoreCompileInputs.cache
+D:\VSFile\RoboticsQuizMay02\RoboticsQuizMay02\obj\Debug\RoboticsQuizMay02.exe
+D:\VSFile\RoboticsQuizMay02\RoboticsQuizMay02\obj\Debug\RoboticsQuizMay02.pdb
+D:\VSFile\RoboticsQuizMay02\RoboticsQuizMay02\obj\Debug\RoboticsQuizMay02.Robotics_Arduino_GUI2.resources
